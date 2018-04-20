@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">MyProfileLayout</string>
+    <string-array name="examples">
+        <item>Hello!</item>
+        <item>I love Android Development</item>
+        <item>I love the community</item>
+        <item>Thankyou!</item>
+    </string-array>
+</resources>
